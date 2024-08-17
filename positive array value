@@ -1,0 +1,3 @@
+array = [-10,15,0,-3,20,7,-5]
+positive_number = find_positive_numbers(array)
+print("positive numbers:",positive_numbers)
